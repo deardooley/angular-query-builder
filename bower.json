@@ -1,0 +1,28 @@
+{
+  "name": "angular-query-builder",
+  "version": "1.0.0",
+  "description": "Dynamic query building UI written in Angular",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deardooley/angular-query-builder.git"
+  },
+  "main": [
+    "angular-query-builder.js",
+    "css/styles.css"
+  ],
+  "dependencies": { },
+  "devDependencies": { },
+  "ignore": [
+    "**/.*",
+    "**/*.txt",
+    "**/*.md",
+    "**/*.mdown",
+    "**/*.rb",
+    "**/*.json",
+    "**/*.py",
+    "**/*.html",
+    "fonts",
+    "css/bootstrap.min.css"
+
+  ]
+}
